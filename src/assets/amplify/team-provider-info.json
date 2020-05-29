@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-vue-tutorial-dev-153843-authRole",
+            "UnauthRoleArn": "arn:aws:iam::535013084061:role/amplify-vue-tutorial-dev-153843-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::535013084061:role/amplify-vue-tutorial-dev-153843-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-vue-tutorial-dev-153843-deployment",
+            "UnauthRoleName": "amplify-vue-tutorial-dev-153843-unauthRole",
+            "StackName": "amplify-vue-tutorial-dev-153843",
+            "StackId": "arn:aws:cloudformation:us-east-1:535013084061:stack/amplify-vue-tutorial-dev-153843/7ae46fe0-a1c2-11ea-a0a5-0e1cfc6fd327",
+            "AmplifyAppId": "d2z9qdz8d4x46n"
+        }
+    }
+}
